@@ -36,4 +36,4 @@ Publish the website in the given URL.
 ![expt 9 output](https://user-images.githubusercontent.com/118708467/215232598-ce09cd9e-8073-4193-8399-c9980ab0626f.jpeg)
 
 ## Result:
-
+To design, develop and deploy a web application for event registration.
